@@ -1,6 +1,10 @@
 anusha is good girl
 india
 pravallika menu
+<<<<<<< HEAD
 rate
 
+=======
+i love you
+>>>>>>> 2404bae97b13770a5662f3332dc5a9663aaa8c54
 
